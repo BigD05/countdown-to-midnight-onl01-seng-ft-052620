@@ -7,7 +7,7 @@ end
 puts "HAPPY NEW YEAR!"
 end
 
-def countdown(number)
+def countdown(sleep)
   number=10
   while number > 0 
   sleep(1)
